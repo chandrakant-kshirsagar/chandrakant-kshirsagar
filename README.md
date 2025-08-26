@@ -80,7 +80,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.ko-fi.com/chandrakant"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </p>
 
-<a href="http://www.github.com/chandrakant-kshirsagar">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrakant-kshirsagar&show_icons=true&count_private=true&title_color=00c8ff&text_color=ffffff&icon_color=00c8ff&bg_color=30,0f2027,203a43,2c5364&hide_border=true" />
-</a>  
+
 
