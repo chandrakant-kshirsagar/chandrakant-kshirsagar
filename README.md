@@ -65,14 +65,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-### 📌 Top Repositories
-
-<div align="center">
-<a href="https://github.com/chandrakant-kshirsagar/RentalBikes"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chandrakant-kshirsagar&repo=RentalBikes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
-</div>
-
----
-
 ### 👀 Profile Views
 
 <p align="center">
