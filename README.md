@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### 🤖 Software Developer
 
-![Android](https://img.icons8.com/color/48/000000/android-os.png) **Software Engineer | Kotlin & Java | Android, Jetpack Compose & Multiplatform | Spring Boot REST APIs**
+<img src="https://img.icons8.com/color/24/000000/android-os.png" width="24" height="24"/> **Software Engineer | Kotlin & Java | Android, Jetpack Compose & Multiplatform | Spring Boot REST APIs**
 
 * 🌍  Based in **Mumbai, India**
 * ✉️  Reach me at **[kshirsagarc07@gmail.com](mailto:kshirsagarc07@gmail.com)**
